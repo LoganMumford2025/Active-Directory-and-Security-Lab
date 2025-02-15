@@ -1,7 +1,5 @@
 # Active-Directory-and-Security-Lab
 
-# Active Directory and Security Lab
-
 ## Objective
 As I transition into IT, gaining hands-on experience with Active Directory can be challenging without direct access to enterprise environments. This lab is designed to bridge that gap by allowing me to install and configure Windows Server 2022 with Active Directory, set up a Windows 10 end-user machine, and create a domain to manage users and groups. Additionally, I will incorporate a Kali Linux VM for simulated attacks and a Splunk VM for monitoring, enabling me to analyze security threats in a controlled environment. This lab will serve as a foundational sandbox to refine my skills, troubleshoot real-world scenarios, and deepen my understanding of IT and cybersecurity as I progress in my career.
 
